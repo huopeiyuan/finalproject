@@ -64,4 +64,4 @@ Philadelphia 41.3 60 20.6 2.2 45.7 21.7 city 0 6.41
 SaintLouis 46.7 143 21.8 0.5 51.8 40.9 city 0 3.60
 SanDiego 23.6 81 12.4 4.2 21.1 11.2 city 0 0.47
 SanFrancisco 24.8 107 13.7 9.2 26.0 20.3 city 0 5.18
-Washington DC 72.6 102 18.6 1.1 32.9 21.0 city 0 5.93
+WashingtonDC 72.6 102 18.6 1.1 32.9 21.0 city 0 5.93
